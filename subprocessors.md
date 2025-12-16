@@ -4,7 +4,7 @@
 
 Prown uses third-party subprocessors to provide and operate the Service. This page describes the subprocessors that may process personal data.
 
-For questions, contact: **privacy@prownhq.com**
+For questions, contact: **marcossponton@gmail.com**
 
 ## Current subprocessors
 
